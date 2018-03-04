@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to NyanHunt Privacy Policy Pages
 
-You can use the [editor on GitHub](https://github.com/nyanhunt/nyanhunt/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can visit the [NyanHunt in fb](https://www.facebook.com/nyanhuntapp/) to ask any qestions.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Image](https://scontent-arn2-1.xx.fbcdn.net/v/t31.0-8/27912637_1974911106161211_5052549845263294716_o.jpg?oh=38a44b115b99275f1ca725fcf4a140f5&oe=5B0824C3)
 
-### Markdown
+### Privacy Policy
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nyanhunt/nyanhunt/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The nyanhunt team respects the rights of users of the mobile application. We unreservedly acknowledge the importance of the privacy of users' personal information. We do not collect information about the user in the application. 
